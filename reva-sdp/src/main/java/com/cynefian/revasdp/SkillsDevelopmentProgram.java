@@ -7,8 +7,8 @@ public class SkillsDevelopmentProgram {
 	static Logger log = Logger.getLogger(SkillsDevelopmentProgram.class.getName());
 	
 	public static void main(String[] args) {
-		System.out.println("Welcome to the Skills Development Program");
-		logMessage();
+		System.out.println("Hey this is Vishesh here!!");
+		//logMessage();
 	}
 	
 	public static void logMessage() {
